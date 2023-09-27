@@ -2,9 +2,6 @@
 
 > I am a new programmer, humble and ready to learn.
 
-<!--
-**LichDaddy/LichDaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Major
 Computer Science Student at Eastern Washington University
 
@@ -22,6 +19,11 @@ Computer Science Student at Eastern Washington University
 * Cyber Security
 * Pen Testing
 * Developing Networks 
+
+<!--
+**LichDaddy/LichDaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 
