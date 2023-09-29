@@ -1,6 +1,7 @@
 ### Michael Sinclair II
 
 > I am a new programmer, humble and ready to learn.
+![michael-crits-michael-sinclair](https://github.com/LichDaddy/LichDaddy/assets/140662300/3c9520cc-f01b-4c39-8dab-51702eb1e4c9)
 
 ## Major
 Computer Science Student at Eastern Washington University
