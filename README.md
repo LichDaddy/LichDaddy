@@ -33,7 +33,7 @@ Computer Science Student at Eastern Washington University
 ![Imgur](https://i.imgur.com/mbFiPMx.jpg)
 
 > Magic: The Gathering with Post Malone
-https://www.youtube.com/watch?v=RjT8JzmauNo
+<br> https://www.youtube.com/watch?v=RjT8JzmauNo
 
 ![Imgur](https://i.imgur.com/clPOO8O.jpg)
 
