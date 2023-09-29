@@ -28,8 +28,9 @@ Computer Science Student at Eastern Washington University
 
 ### Memorable Content
 > Dungeons & Dragons with Matther Mercer
-![Tabletop-Jocks](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0761neTCjCo%2Fmaxresdefault.jpg&tbnid=OWo8awYebrhspM&vet=12ahUKEwici6--39CBAxXAHjQIHYR8BBcQMygAegQIARBI..i&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0761neTCjCo&docid=hArx2GczHiINwM&w=1280&h=720&q=tabletop%20jocks%20matthew%20mercer&ved=2ahUKEwici6--39CBAxXAHjQIHYR8BBcQMygAegQIARBI)
 https://www.youtube.com/watch?v=0761neTCjCo
+
+![Imgur](https://i.imgur.com/mbFiPMx.jpg)
 
 > Magic: The Gathering with Post Malone
 https://www.youtube.com/watch?v=RjT8JzmauNo
