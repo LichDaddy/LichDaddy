@@ -1,7 +1,9 @@
 ### Michael Sinclair II
 
 > I am a new programmer, humble and ready to learn.
-![michael-crits-michael-sinclair](https://github.com/LichDaddy/LichDaddy/assets/140662300/3c9520cc-f01b-4c39-8dab-51702eb1e4c9)
+
+![Gif of me doing shakas]("https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FGVHtt_DEGHIAAAAC%2Fmichael-crits-michael-sinclair.gif&tbnid=HX_nwBfCetSWqM&vet=12ahUKEwiypuDY1NCBAxVMAjQIHSiXDYgQMygBegQIARBK..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fmichael-crits-michael-sinclair-its-ya-bean-its-me-adorable-gif-24789096&docid=NXFqwR7VnlDeNM&w=498&h=289&q=michael%20sinclair%20ii%20gif&ved=2ahUKEwiypuDY1NCBAxVMAjQIHSiXDYgQMygBegQIARBK")
+
 
 ## Major
 Computer Science Student at Eastern Washington University
